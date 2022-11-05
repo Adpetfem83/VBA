@@ -1,11 +1,11 @@
 # Adio-Olufemi-Peter
 
-WRITTEN ANALYSIS OF RESULTS
+# WRITTEN ANALYSIS OF RESULTS
 
-1.	The Overview of the project: 
+# The Overview of the project: 
        At the initial stage of the project, Steve’s parent only wanted to be informed how DQ was actively traded in 2018. Whether it performed well or not. Therefore, we use VBA Analysis to determine some codes that eventually produced the total daily volume and for the return for the year. The project also determined total daily volume for each of the tickers and their yearly returns perhaps Steve may want to look at the entire stocks in the future. Therefore, the codes created for DQ were reused for other tickers.
 
-2.	Results:
+# Results:
 
 Below codes were used to make the headings for each column and we use initialize the array for the entire tickers
 
@@ -42,7 +42,7 @@ More so, for all Stocks Analysis for the year 2018. It was a disaster year to in
 
 Moreover, when we compare the original scripts, the execution time for the refactored scripts was faster, whereas the execution time for the original scripts was slower.
 
-3.	#Summary:
+# Summary:
 
 (a)	Advantages and disadvantages of Refactoring Code.
 

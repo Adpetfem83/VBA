@@ -78,5 +78,5 @@ Original scripts should not be refactored in the following cases.
 3.	We should not also refactor stable code
 
 4.	We should not also delay factoring because it contains big mess.
-![image](https://user-images.githubusercontent.com/108506115/200132170-08423754-ded3-426f-82f8-a13e64c08849.png)
+
 

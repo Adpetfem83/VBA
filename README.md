@@ -41,7 +41,8 @@ And for 2017 All stocks Analysis we found out that only the following tickers ha
 More so, for all Stocks Analysis for the year 2018. It was a disaster year to invest as almost all the stocks recorded too many losses. In fact, only ENPH and RUN recorded very high returns with 81.9% and 84.0% respectively. All others have negative returns. Therefore, all stocks analysis for the year 2017 and 2018.
 
 Moreover, when we compare the original scripts, the execution time for the refactored scripts was faster, whereas the execution time for the original scripts was slower.
-3.	Summary:
+
+3.	#Summary:
 
 (a)	Advantages and disadvantages of Refactoring Code.
 
